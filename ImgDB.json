@@ -1,17 +1,163 @@
-[
-  {
-    "Item Cd": "12345",
-    "Item Desc": "โต๊ะ",
-    "Image URL": "https://example.com/image1.jpg"
-  },
-  {
-    "Item Cd": "67890",
-    "Item Desc": "เก้าอี้",
-    "Image URL": "https://example.com/image2.jpg"
-  },
-  {
-    "Item Cd": "ABCDE",
-    "Item Desc": "ตู้เสื้อผ้า",
-    "Image URL": "https://example.com/image3.jpg"
-  }
+[{
+        "ItemCd": "000-000000-0000",
+        "ItemDesc": "CONFIRM RFQ",
+        "ItemDescthai": "CONFIRM RFQ",
+        "IndDestDesc": "Sundries",
+        "ActCode": "",
+        "ActDesc": "",
+        "Image URL": "D:\Catalog Connect\Img\1.jpg"
+    },
+    {
+        "ItemCd": "999-999999-9999",
+        "ItemDesc": "RFQ REJECT",
+        "ItemDescthai": "RFQ REJECT",
+        "IndDestDesc": "Sundries",
+        "ActCode": "",
+        "ActDesc": "",
+        "Image URL": "D:\Catalog Connect\Img\1.jpg"
+    },
+    {
+        "ItemCd": "A00-120320-0103",
+        "ItemDesc": "ROLLER HEM COMPUTER(DELL PRECISION M5550)",
+        "ItemDescthai": "ROLLER HEM COMPUTER(DELL PRECISION M5550)",
+        "IndDestDesc": "OHM DENKI (THAILAND) LTD.",
+        "ActCode": "120320",
+        "ActDesc": "Factory Equipment",
+        "Image URL": "D:\Catalog Connect\Img\1.jpg"
+    },
+    {
+        "ItemCd": "A00-120320-0909",
+        "ItemDesc": "PAPER SHREDDER GBC M515",
+        "ItemDescthai": "เครื่องทำลายเอกสาร GBC M515",
+        "IndDestDesc": "PANTAVANIJ CO.,LTD.",
+        "ActCode": "120320",
+        "ActDesc": "Factory Equipment",
+        "Image URL": "D:\Catalog Connect\Img\1.jpg"
+    },
+    {
+        "ItemCd": "A00-120411-0979",
+        "ItemDesc": "WOODEN PAVILION BALI STYLE",
+        "ItemDescthai": "ศาลาไม้ทรงบาหลี ขนาด2x2 เมตร ขนาด 12 คนนั่ง",
+        "IndDestDesc": "SRI UDOM KHA MAI",
+        "ActCode": "120411",
+        "ActDesc": "Furniture and Fixtures - Office",
+        "Image URL": "D:\Catalog Connect\Img\1.jpg"
+    },
+    {
+        "ItemCd": "A00-120420-0291",
+        "ItemDesc": "NIKON Z30 MIRRORLESS CAMERA",
+        "ItemDescthai": "กล้อง NIKON Z30 MIRRORLESS",
+        "IndDestDesc": "KERDVIBOON CO., LTD.",
+        "ActCode": "120420",
+        "ActDesc": "Office Equipment",
+        "Image URL": "D:\Catalog Connect\Img\1.jpg"
+    },
+    {
+        "ItemCd": "A00-120420-0292",
+        "ItemDesc": "SD CARD SANDISK EXTREME PRO 64 GB : SDSDXXU-064G-GN4IN (200MB/S.)",
+        "ItemDescthai": "SD CARD SANDISK EXTREME PRO 64 GB : SDSDXXU-064G-GN4IN (200MB/S.)",
+        "IndDestDesc": "KERDVIBOON CO., LTD.",
+        "ActCode": "120420",
+        "ActDesc": "Office Equipment",
+        "Image URL": "D:\Catalog Connect\Img\1.jpg"
+    },
+    {
+        "ItemCd": "A00-120420-0293",
+        "ItemDesc": "DIAMOND EDITION TRIPOD WITH BALL HEAD MODEL : QZSD Q999H PRO",
+        "ItemDescthai": "ขาตั้งกล้องรุ่น DIAMOND พร้อมหัวบอล : QZSD Q999H PRO",
+        "IndDestDesc": "KERDVIBOON CO., LTD.",
+        "ActCode": "120420",
+        "ActDesc": "Office Equipment",
+        "Image URL": "D:\Catalog Connect\Img\1.jpg"
+    },
+    {
+        "ItemCd": "A00-120420-0972",
+        "ItemDesc": "EB-2265U EPSON (3LCD,WUXGA/5500 ANSI)",
+        "ItemDescthai": "EB-2265U EPSON (3LCD,WUXGA/5500 ANSI)",
+        "IndDestDesc": "INFOSYS TECH (THAI LAND) CO.,LTD.",
+        "ActCode": "120420",
+        "ActDesc": "Office Equipment",
+        "Image URL": "D:\Catalog Connect\Img\1.jpg"
+    },
+    {
+        "ItemCd": "A00-120420-0973",
+        "ItemDesc": "EB-L200X EPSON (3LCD,XGA/4200 ANSI)",
+        "ItemDescthai": "EB-L200X EPSON (3LCD,XGA/4200 ANSI)",
+        "IndDestDesc": "INFOSYS TECH (THAI LAND) CO.,LTD.",
+        "ActCode": "120420",
+        "ActDesc": "Office Equipment",
+        "Image URL": "D:\Catalog Connect\Img\1.jpg"
+    },
+    {
+        "ItemCd": "A00-120420-0978",
+        "ItemDesc": "PAPER SHREDDER OASTAR RS-6600S",
+        "ItemDescthai": "เครื่องทำลายเอกสาร  OASTAR RS-6600 S",
+        "IndDestDesc": "PANTAVANIJ CO.,LTD.",
+        "ActCode": "120420",
+        "ActDesc": "Office Equipment",
+        "Image URL": "D:\Catalog Connect\Img\1.jpg"
+    },
+    {
+        "ItemCd": "A00-120510-0264",
+        "ItemDesc": "COMPANY CAR : CIVIC E:HEV EL+ (PMW)",
+        "ItemDescthai": "COMPANY CAR : CIVIC E:HEV EL+ (PMW)",
+        "IndDestDesc": "HONDA AUTOMOBILE (THAILAND) CO., LTD.",
+        "ActCode": "120510",
+        "ActDesc": "Motor Vehicle_Corp.Tax",
+        "Image URL": "D:\Catalog Connect\Img\1.jpg"
+    },
+    {
+        "ItemCd": "A00-120510-0912",
+        "ItemDesc": "COMPANY CAR : CITY SV.CVT/CBL",
+        "ItemDescthai": "COMPANY CAR : CITY SV.CVT/CBL",
+        "IndDestDesc": "HONDA AUTOMOBILE (THAILAND) CO., LTD.",
+        "ActCode": "120510",
+        "ActDesc": "Motor Vehicle_Corp.Tax",
+        "Image URL": "D:\Catalog Connect\Img\1.jpg"
+    },
+    {
+        "ItemCd": "A00-120510-0913",
+        "ItemDesc": "COMPANY CAR : REGISTRATION FEE (CIVIC 2.0)",
+        "ItemDescthai": "COMPANY CAR : REGISTRATION FEE (CIVIC 2.0)",
+        "IndDestDesc": "HONDA AUTOMOBILE (THAILAND) CO., LTD.",
+        "ActCode": "120510",
+        "ActDesc": "Motor Vehicle_Corp.Tax",
+        "Image URL": "D:\Catalog Connect\Img\1.jpg"
+    },
+    {
+        "ItemCd": "A00-120510-0965",
+        "ItemDesc": "COMPANY CAR : CIVIC EL+ (LUS)",
+        "ItemDescthai": "COMPANY CAR : CIVIC EL+ (LUS)",
+        "IndDestDesc": "HONDA AUTOMOBILE (THAILAND) CO., LTD.",
+        "ActCode": "120510",
+        "ActDesc": "Motor Vehicle_Corp.Tax",
+        "Image URL": "D:\Catalog Connect\Img\1.jpg"
+    },
+    {
+        "ItemCd": "A00-120510-0966",
+        "ItemDesc": "COMPANY CAR : REGISTRATION FEE (CIVIC 1.5L)",
+        "ItemDescthai": "COMPANY CAR : REGISTRATION FEE (CIVIC 1.5L)",
+        "IndDestDesc": "HONDA AUTOMOBILE (THAILAND) CO., LTD.",
+        "ActCode": "120510",
+        "ActDesc": "Motor Vehicle_Corp.Tax",
+        "Image URL": "D:\Catalog Connect\Img\1.jpg"
+    },
+    {
+        "ItemCd": "A00-120510-0967",
+        "ItemDesc": "COMPANY CAR : CITY SV-CVT",
+        "ItemDescthai": "COMPANY CAR : CITY SV-CVT",
+        "IndDestDesc": "HONDA AUTOMOBILE (THAILAND) CO., LTD.",
+        "ActCode": "120510",
+        "ActDesc": "Motor Vehicle_Corp.Tax",
+        "Image URL": "D:\Catalog Connect\Img\1.jpg"
+    },
+    {
+        "ItemCd": "A00-120510-0968",
+        "ItemDesc": "COMPANY CAR : REGISTRATION FEE (CITY)",
+        "ItemDescthai": "COMPANY CAR : REGISTRATION FEE (CITY)",
+        "IndDestDesc": "HONDA AUTOMOBILE (THAILAND) CO., LTD.",
+        "ActCode": "120510",
+        "ActDesc": "Motor Vehicle_Corp.Tax",
+        "Image URL": "D:\Catalog Connect\Img\1.jpg"
+    }
 ]
