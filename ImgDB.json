@@ -1,0 +1,17 @@
+[
+  {
+    "Item Cd": "12345",
+    "Item Desc": "โต๊ะ",
+    "Image URL": "https://example.com/image1.jpg"
+  },
+  {
+    "Item Cd": "67890",
+    "Item Desc": "เก้าอี้",
+    "Image URL": "https://example.com/image2.jpg"
+  },
+  {
+    "Item Cd": "ABCDE",
+    "Item Desc": "ตู้เสื้อผ้า",
+    "Image URL": "https://example.com/image3.jpg"
+  }
+]
